@@ -1,4 +1,4 @@
-# FindUser ![us](https://user-images.githubusercontent.com/82051128/202719447-919b6b2e-4ce3-46ae-85fb-4100c22eb226.png) 
+# FindUser
   <b>FindUser</b> is a tool to find someone's nickname that is the same with various applications.
 # Requirements: 
     a. pyuseragents 
