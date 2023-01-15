@@ -6,7 +6,7 @@
     c. pyfiglet 
 # Installation 
     $ git clone https://github.com/syasmsec/FindUser-xSx
-    $ cd userfinder 
+    $ cd FindUser-xSx
     $ python3 -m pip install -r requirements.txt 
     $ python3 userx.py 
 # Usage 
